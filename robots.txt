@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leyoxv.github.io/bdR/sitemap.bdR.gz
